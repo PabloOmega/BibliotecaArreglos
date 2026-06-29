@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Cambio externo
+// Cambio interno
 
 int sumaArreglo(int arr[], int n){
 	int suma = 0;
