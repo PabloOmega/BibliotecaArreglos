@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Cambio externo
+
 int sumaArreglo(int arr[], int n){
 	int suma = 0;
 	for(int i = 0;i < n;suma += arr[i++]);
